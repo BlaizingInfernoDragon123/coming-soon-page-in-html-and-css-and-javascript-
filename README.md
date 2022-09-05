@@ -1,4 +1,4 @@
-# Coming-Soon-page-in-html-and-css-and-javascript-
+# coming-soon-page-in-html-and-css-and-javascript-
 A coming soon page made in html and css and javascript 
 
 # Live View Of The Webpage Link-
