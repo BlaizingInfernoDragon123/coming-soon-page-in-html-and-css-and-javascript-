@@ -5,7 +5,7 @@ A coming soon page made in html and css and javascript
 View the webpage live here at github pages
 <a href="https://blaizinginfernodragon123.github.io/coming-soon-page-in-html-and-css-and-javascript-/">
 ```
-Coming Soon.html
+https://blaizinginfernodragon123.github.io/coming-soon-page-in-html-and-css-and-javascript-/
 ```
 </a>
 
