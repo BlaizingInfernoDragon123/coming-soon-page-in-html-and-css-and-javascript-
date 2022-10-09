@@ -4,6 +4,7 @@ A coming soon page made in html and css and javascript
 # Live View Of The Webpage Link-
 View the webpage live here at github pages
 <a href="https://blaizinginfernodragon123.github.io/coming-soon-page-in-html-and-css-and-javascript-/">
+
 ```
 https://blaizinginfernodragon123.github.io/coming-soon-page-in-html-and-css-and-javascript-/
 ```
@@ -51,7 +52,7 @@ Check SECURITY.md for more info or click here.
 ```
 </a>
 
-
+`
 Fun link.Click Down👇
 `
 
